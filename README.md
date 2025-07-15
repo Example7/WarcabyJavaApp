@@ -40,10 +40,10 @@ ant run
 ## 🖼️ Screenshoty
 
 Widok gry przy starcie aplikacji:
-![Warcaby – zrzut 1](screenshots/warcaby.png)
+- ![Warcaby – zrzut 1](screenshots/warcaby.png)
 
 Widok gry podczas rozgrywki:
-![Warcaby – zrzut 2](screenshots/warcaby_2.png)
+- ![Warcaby – zrzut 2](screenshots/warcaby_2.png)
 
 ## 👨‍💻 Autor
 
