@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Interfejs"},{"l":"LogikaGry"},{"l":"ModeleGry"},{"l":"Siec"}];updateSearchResults();
