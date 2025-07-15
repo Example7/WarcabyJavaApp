@@ -1,41 +1,50 @@
 # ♟️ Warcaby Java
 
-Aplikacja desktopowa w języku **Java**, umożliwiająca grę w warcaby dla dwóch graczy. Projekt został stworzony w ramach zajęć **Programowanie zaawansowanych aplikacji w JAVA**.
+Aplikacja desktopowa w języku **Java**, umożliwiająca grę w warcaby dla dwóch graczy lokalnie. Projekt został stworzony w ramach zajęć **Programowanie zaawansowanych aplikacji w JAVA**.
 
 ---
 
 ## 🧰 Technologie
 
-- Java 8+  
-- Swing (graficzny interfejs użytkownika)  
-- NetBeans (jako środowisko IDE)  
-- Maven / Ant (w zależności od konfiguracji)
+- Java 8+
+- Swing (graficzny interfejs użytkownika)
+- NetBeans
+- Apache Ant (kompilacja i uruchamianie)
 
 ---
 
 ## 🎮 Funkcje gry
 
-- Tryb lokalny: Gracz vs Gracz
-- Graficzne przedstawienie planszy 8x8
-- Obsługa reguł gry w warcaby:
-  - Ruchy w przód po skosie
-  - Bicie przeciwnika
-  - Damka (ruchy wstecz)
-- Reset gry
-- Intuicyjny interfejs użytkownika
-- Obsługa wygranej i komunikatów końcowych
+- ✅ Tryb lokalny: Gracz vs Gracz
+- ✅ Plansza 8x8 z graficzną obsługą pionków
+- ✅ Ruchy po skosie, bicie i promocja na damkę
+- ✅ Komunikaty o zakończeniu gry
+- ✅ Resetowanie rozgrywki
 
 ---
 
 ## ▶️ Jak uruchomić projekt
 
-### 1. W NetBeans:
-- Otwórz projekt przez `File → Open Project`
-- Wskaż folder z projektem (gdzie znajduje się `build.xml`)
-- Kliknij prawym → `Run` lub naciśnij `F6`
+### 🔹 W NetBeans:
+1. `File → Open Project`
+2. Wskaż folder projektu (zawiera `build.xml`)
+3. Kliknij prawym na nazwie projektu → `Run` (lub naciśnij `F6`)
 
-### 2. Alternatywnie (z terminala, jeśli używasz Ant):
+### 🔹 Alternatywnie z terminala (jeśli masz Apache Ant):
 ```bash
 ant run
 ```
 
+---
+
+## 🖼️ Screenshoty
+
+Widok gry przy starcie aplikacji:
+![Warcaby – zrzut 1](screenshots/warcaby.png)
+
+Widok gry podczas rozgrywki:
+![Warcaby – zrzut 2](screenshots/warcaby_2.png)
+
+## 👨‍💻 Autor
+
+**Kacper Kałużny** ([Example7](https://github.com/Example7))  
